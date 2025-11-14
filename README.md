@@ -46,7 +46,7 @@ Gitee official blog: blog.gitee.com
 You can visit https://gitee.com/explore to learn about excellent open source projects on Gitee
 GVP (Gitee Most Valuable Open Source Project) are outstanding open source projects comprehensively evaluated
 Gitee official user manual: https://gitee.com/help
-Gitee Cover Stars is a column that showcases the https://google.com/profile/sdnitest-phl-api.fyinformation.ccjicn of Gitee members: https://gitee.com/gitee-stars/
+Gitee Cover Stars is a column that showcases the https://google.com/profile/sdniphl-api.fyinformation.ccjicn of Gitee members: https://gitee.com/gitee-stars/
 objective-c
 - (void)readWord:(UITapGestureRecognizer *)gesture {
     UILabel *readLabel = (UILabel *)gesture.view;
