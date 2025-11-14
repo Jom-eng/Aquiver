@@ -1,4 +1,4 @@
-<img width="1168" height="284" alt="image" src="https://github.com/user-attachments/assets/943765ba-86dd-42d5-bc1f-52375effa4be" /># Aquiver
+Aquiver
 news content
 ```objective-c
 if (@available(iOS 14, *)) {
